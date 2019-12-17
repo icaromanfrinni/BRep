@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Linear_Algebra.h(103,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Linear_Algebra.h(114,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Linear_Algebra.h(125,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Linear_Algebra.h(157,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\RenderEngine\OpenGL_Render.h(32,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(17,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(55,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(61,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(62,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(134,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(150,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\EulerOp.h(151,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Geometry\Primitives.h(25,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Geometry\Primitives.h(78,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Geometry\Primitives.h(115,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\DataStructures\Geometry\Primitives.h(151,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\BRep\src\RenderEngine\OpenGL_API.h(397,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating code
+  90 of 1907 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    25 functions were new in current compilation
+    76 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BRep.vcxproj -> C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\x64\Release\BRep.exe
